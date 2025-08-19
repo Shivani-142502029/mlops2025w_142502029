@@ -1,0 +1,21 @@
+Sum of 3 and 4 : 7
+Factorial of 7 is 5040
+Sum of 4 and 3 : 7
+Factorial of 7 is 5040
+8a9,24
+> echo "Sum of $a and $b : $sum" >> output.txt
+> 
+> fact(){
+> 	res=1
+> 	for i in $(seq 1 $1)
+>  	do 
+> 		res=$(($res*i))
+> 	done
+> 	echo "Factorial of $sum is $res"
+> 	echo "Factorial of $sum is $res" >> output.txt
+> }
+> 
+> fact "$sum"
+> diff=$(echo "diff addition.sh addition_rev1.sh")
+> $diff >> output.txt
+> echo "Difference between two files : $diff"
