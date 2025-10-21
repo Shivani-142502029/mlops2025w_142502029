@@ -1,0 +1,10 @@
+artifact_location: file:///D:/IIT%20Palakkad/Mlops/project/content/mlops2025w_142502029/Class/Week10/mlruns/132651775496180851/models/m-7528fdc20f994364b139e2c5f9551330/artifacts
+creation_timestamp: 1761075164472
+experiment_id: '132651775496180851'
+last_updated_timestamp: 1761075172379
+model_id: m-7528fdc20f994364b139e2c5f9551330
+model_type: null
+name: model
+source_run_id: c8f641e677134506bc7ac4864f61ff6a
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/IIT%20Palakkad/Mlops/project/content/mlops2025w_142502029/Class/Week10/mlruns/132651775496180851/8b7f2c6238d74dfe8267839939d3f9b6/artifacts
+end_time: 1761073130929
+entry_point_name: ''
+experiment_id: '132651775496180851'
+lifecycle_stage: active
+run_id: 8b7f2c6238d74dfe8267839939d3f9b6
+run_name: Hyperparameter Tuning Session
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761073130745
+status: 4
+tags: []
+user_id: 2021i

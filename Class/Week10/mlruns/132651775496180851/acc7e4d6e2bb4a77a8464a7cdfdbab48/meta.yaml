@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/IIT%20Palakkad/Mlops/project/content/mlops2025w_142502029/Class/Week10/mlruns/132651775496180851/acc7e4d6e2bb4a77a8464a7cdfdbab48/artifacts
+end_time: 1761075514268
+entry_point_name: ''
+experiment_id: '132651775496180851'
+lifecycle_stage: active
+run_id: acc7e4d6e2bb4a77a8464a7cdfdbab48
+run_name: RF_50_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761075501155
+status: 3
+tags: []
+user_id: 2021i

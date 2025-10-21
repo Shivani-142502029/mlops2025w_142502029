@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/IIT%20Palakkad/Mlops/project/content/mlops2025w_142502029/Class/Week10/mlruns/132651775496180851/2cfe5a3d9e8c44b6af5207a2ba66b360/artifacts
+end_time: 1761074805657
+entry_point_name: ''
+experiment_id: '132651775496180851'
+lifecycle_stage: active
+run_id: 2cfe5a3d9e8c44b6af5207a2ba66b360
+run_name: RF_estimators_50_depth_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761074805559
+status: 4
+tags: []
+user_id: 2021i
