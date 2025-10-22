@@ -1,0 +1,20 @@
+--- Performance of Classifier Trained with Snorkel Labels ---
+              precision    recall  f1-score   support
+
+         neg       1.00      0.11      0.19       254
+         pos       0.52      1.00      0.68       246
+
+    accuracy                           0.55       500
+   macro avg       0.76      0.55      0.44       500
+weighted avg       0.76      0.55      0.43       500
+
+
+--- Performance of Fully Supervised Classifier ---
+              precision    recall  f1-score   support
+
+         neg       0.84      0.81      0.82       254
+         pos       0.81      0.84      0.82       246
+
+    accuracy                           0.82       500
+   macro avg       0.82      0.82      0.82       500
+weighted avg       0.82      0.82      0.82       500
